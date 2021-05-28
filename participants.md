@@ -14,6 +14,7 @@ A list of participants in CSC 195
 * Alexander C. Mitchell
 * Khoa Nguyen
 * Linda Oyolu
+* Lavisha Bhambri
 * Samuel A. Rebelsky
 * Abby E. Stevens
 * Zoe Wolter
